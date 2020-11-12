@@ -10,6 +10,4 @@
 
 [![Rishav's github stats](https://github-readme-stats.vercel.app/api?username=rjitsu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-I gotta work more...
+![](https://komarev.com/ghpvc/?username=rjitsu&color=yellowgreen)
