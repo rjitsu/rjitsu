@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for my first software dev job
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on anything related to CSS and p5
+- 🔭 I’m currently looking for a new frontend developer role.
+- 🌱 I’m currently learning about optimization.
 - 💬 Ask me about p5.js
 - 📫 How to reach me: rishavjadon456@gmail.com
 - ⚡ Fun fact: The moon has moonquakes
